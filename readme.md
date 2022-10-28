@@ -10,7 +10,7 @@
 ![stack](https://img.shields.io/badge/dajngo-darkgreen?logo=django&logoColor=white&style=for-the-badge)
 ![stack](https://img.shields.io/badge/python-yellow?logo=python&logoColor=white&style=for-the-badge)
 ![stack](https://img.shields.io/badge/ReactRouter-red?logo=reactrouter&logoColor=white&style=for-the-badge)
-![stack](https://img.shields.io/badge/neovim-green?logo=neovim&logoColor=black&style=for-the-badge)
-
+![stack](https://img.shields.io/badge/neovim-darkgreen?logo=neovim&logoColor=dark&style=for-the-badge)
+![stack](https://img.shields.io/badge/git-red?logo=git&logoColor=white&style=for-the-badge)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ostinweb&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
