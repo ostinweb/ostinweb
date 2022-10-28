@@ -14,4 +14,3 @@
 ![stack](https://img.shields.io/badge/git-red?logo=git&logoColor=white&style=for-the-badge)
 
 ![](https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ostinweb&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
