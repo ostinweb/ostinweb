@@ -15,5 +15,6 @@
 ![stack](https://img.shields.io/badge/figma-lightcyan?logo=figma&logoColor=dark&style=for-the-badge)
 ![stack](https://img.shields.io/badge/illustrator-sienna?logo=adobe&logoColor=white&style=for-the-badge)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NIKItACODEE&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif)
