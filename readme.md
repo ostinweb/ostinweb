@@ -15,4 +15,6 @@
 ![stack](https://img.shields.io/badge/figma-lightcyan?logo=figma&logoColor=dark&style=for-the-badge)
 ![stack](https://img.shields.io/badge/illustrator-sienna?logo=adobe&logoColor=white&style=for-the-badge)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NIKItACODEE&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Проекты
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ostinweb&repo=react-fc-todo)](https://github.com/ostinweb/react-fc-todo)
