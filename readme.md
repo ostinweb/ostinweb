@@ -12,5 +12,8 @@
 ![stack](https://img.shields.io/badge/ReactRouter-red?logo=reactrouter&logoColor=white&style=for-the-badge)
 ![stack](https://img.shields.io/badge/neovim-darkgreen?logo=neovim&logoColor=dark&style=for-the-badge)
 ![stack](https://img.shields.io/badge/git-red?logo=git&logoColor=white&style=for-the-badge)
+![stack](https://img.shields.io/badge/figma-lightcyan?logo=figma&logoColor=dark&style=for-the-badge)
+![stack](https://img.shields.io/badge/illustrator-sienna?logo=adobe&logoColor=white&style=for-the-badge)
+
 
 ![](https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif)
