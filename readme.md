@@ -16,5 +16,6 @@
 ![stack](https://img.shields.io/badge/illustrator-sienna?logo=adobe&logoColor=white&style=for-the-badge)
 
 
-### Проекты
+### Проекты 
+```смотреть нельзя помиловать```
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ostinweb&repo=react-fc-todo)](https://github.com/ostinweb/react-fc-todo)
