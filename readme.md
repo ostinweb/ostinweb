@@ -14,6 +14,7 @@
 ![stack](https://img.shields.io/badge/git-red?logo=git&logoColor=white&style=for-the-badge)
 ![stack](https://img.shields.io/badge/figma-lightcyan?logo=figma&logoColor=dark&style=for-the-badge)
 ![stack](https://img.shields.io/badge/illustrator-sienna?logo=adobe&logoColor=white&style=for-the-badge)
+![stack](https://img.shields.io/badge/docker-blue?logo=docker&logoColor=white&style=for-the-badge)
 
 
 ### Проекты 
