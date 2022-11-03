@@ -20,4 +20,4 @@
 ### Проекты 
 ```смотреть нельзя помиловать```
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ostinweb&repo=react-fc-todo)](https://github.com/ostinweb/react-fc-todo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ostinweb&repo=react-fc-todo)](https://github.com/ostinweb/router)
