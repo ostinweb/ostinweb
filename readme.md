@@ -15,7 +15,7 @@
 ![stack](https://img.shields.io/badge/figma-lightcyan?logo=figma&logoColor=dark&style=for-the-badge)
 ![stack](https://img.shields.io/badge/illustrator-sienna?logo=adobe&logoColor=white&style=for-the-badge)
 ![stack](https://img.shields.io/badge/sqllite-lightcyan?logo=SQLite&logoColor=blue&style=for-the-badge)
-![stack](https://img.shields.io/badge/Next_js-black?logo=nextjs&logoColor=dark&style=for-the-badge)
+![stack](https://img.shields.io/badge/Next_js-gray?logo=nextjs&logoColor=dark&style=for-the-badge)
 
 
 ### Проекты 
