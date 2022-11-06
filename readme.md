@@ -22,3 +22,4 @@
 ```смотреть нельзя помиловать```
 ---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ostinweb&repo=router)](https://github.com/ostinweb/router)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ostinweb&repo=nextjs-blog)](https://github.com/ostinweb/nextjs-blog)
