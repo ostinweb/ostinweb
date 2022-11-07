@@ -21,5 +21,6 @@
 ### Проекты 
 ```смотреть нельзя помиловать```
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ostinweb&repo=router&theme=dark)](https://github.com/ostinweb/router)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ostinweb&repo=todo-list-FC&theme=dark)](https://github.com/ostinweb/todo-list-FC)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ostinweb&repo=nextjs-blog&theme=dark)](https://github.com/ostinweb/nextjs-blog)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ostinweb&repo=router&theme=dark)](https://github.com/ostinweb/router)
